@@ -1,1 +1,1 @@
-# CAD101
+print("hello world")
